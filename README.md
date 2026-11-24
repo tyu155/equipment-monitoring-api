@@ -84,14 +84,6 @@ docker-compose.yml
 requirements.txt
 ```
 
-## Что изучить перед защитой
-1. HTTP-методы и статус-коды 200, 201, 204, 404, 409, 422.
-2. FastAPI, Pydantic и dependency injection через Depends.
-3. SQLAlchemy Engine, Session, commit и rollback.
-4. Первичный/внешний ключ и связь один-ко-многим.
-5. Alembic-миграции.
-6. Фикстуры Pytest и подмена зависимости БД.
-7. Dockerfile и Docker Compose.
 
 ## Следующие самостоятельные улучшения
 - Фильтрация оборудования по статусу и пагинация.
